@@ -4,3 +4,4 @@
 4|New|04531ce9-9b78-d27e-ce6c-aa86a8fe665f|http://www.google.com
 5|New|6272e09e-3a21-2341-8220-6709bed1720b|http://www.google.com
 6|Welcome to WG News!|5b662d4b-a164-78a2-d7b6-f1a90cf1d425|Don’t miss our Tuesday specials!
+7|Welcome back!|fef16684-095b-8c5c-2c88-b9653ff89dcc|xoxo
